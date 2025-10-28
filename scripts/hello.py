@@ -16,7 +16,7 @@ def main():
     print("University of Arizona coordinates: 32.2319° N, 110.9501° W")
     
     # Add your own message here!
-    print("[ADD YOUR OWN MESSAGE ABOUT WHY YOU'RE INTERESTED IN GIS]")
+    print(" GIS interests me greatly, as it is a computer-based tool used to collect, store, analyze, and visualize data tied to specific geographic locations. By linking spatial coordinates with descriptive information, GIS enables users to conduct advanced analyses and create insightful visual representations that support more informed decision-making.")
 
 if __name__ == "__main__":
     main()
