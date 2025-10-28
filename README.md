@@ -14,6 +14,6 @@ Accessing cutting-edge GIS tools and libraries
 
 This assignment introduces you to GitHub Actions - automated workflows that run tests and checks on your code. When you commit your repo.txt file, GitHub Actions will automatically:
 
-✅ Validate Repository URL - Checks that you're pointing to your work repository (not the assignment repo)
-✅ Verify File Structure - Confirms your work repository has all required folders and files
-✅ Test Python Script - Ensures your hello.py script runs successfully
+1. Validate Repository URL - Checks that you're pointing to your work repository (not the assignment repo)
+2. Verify File Structure - Confirms your work repository has all required folders and files
+3. Test Python Script - Ensures your hello.py script runs successfully
